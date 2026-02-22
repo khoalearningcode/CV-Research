@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+*.pt
+Simple_CNN/datasets/
+Vehicle/Vehicle_Detection/Dataset/
+Vehicle/Vehicle-Detection/Dataset/
+Vehicle/Vehicle-Detection/
+runs/
