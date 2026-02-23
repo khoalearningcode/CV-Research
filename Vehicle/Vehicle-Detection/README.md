@@ -40,14 +40,6 @@ cd Vehicle-Detection
 pip install -r requirements.txt
 ```
 
-## wandb
-
-to have mAP, loss, confusion matrix, and other metrics, sign in www.wandb.ai.
-
-```
-pip install wandb
-```
-
 ## Train
 
 fine-tuning on a pre-trained model of yolov5.
